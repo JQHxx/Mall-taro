@@ -26,3 +26,4 @@ $ npm run build:weapp
 
 #### 三、小程序转换成taro的一些问题
 - https://juejin.im/post/5b329436e51d4558ca67396d
+- 仿网易云：https://www.jianshu.com/p/18a05fb8f526
